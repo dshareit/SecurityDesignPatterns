@@ -1,0 +1,23 @@
+Data Storage (Insecure)
+
+Client Side (*** studies done after 2012 showed that more than 63% of applications contain a data storage vulnerability ***):
+
+    Data being stored on the mobile device in
+    - Cleartext
+    - Obfuscated Format
+    - Hard-coded Key
+
+      Other Forms may include:
+            -
+            -
+            -
+            
+            
+Server Side:
+
+
+
+
+
+*** These studies were provided by the authors of The Mobile Application A Hackers Handbook in which the authors tested
+hundreds of apps randomly selected from the Google Play Store and do not include Andriod applications not listed on the store.
