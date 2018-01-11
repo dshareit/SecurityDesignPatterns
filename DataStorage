@@ -2,18 +2,23 @@ Data Storage (Insecure)
 
 Client Side (*** studies done after 2012 showed that more than 63% of applications contain a data storage vulnerability ***):
 
-    Data being stored on the mobile device in
-    - Cleartext
-    - Obfuscated Format
-    - Hard-coded Key
+    Internal Storage:
+    
+        Data being stored on the mobile device in
+        - Cleartext
+        - Obfuscated Format
+        - Hard-coded Key
 
-      Other Forms may include:
-            -
-            -
-            -
+          Other Forms may include:
+                -
+                -
+                -
             
+    External Storage (removable sd card, etc..)
+    
+        
             
-Server Side:
+
 
 
 
